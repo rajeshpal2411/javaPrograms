@@ -1,4 +1,4 @@
-package testPack;
+package general;
 
 public class PrintURLfarmat {
 
